@@ -1,0 +1,1 @@
+This is another file, file2, and this is it's first line of the file.
